@@ -25,8 +25,10 @@ Check out my pinned repositories to see some of my recent work in action!
 ---
 
 ### 📫 Let’s Connect!
-- **Portfolio**: [(https://portfolio-attighs-projects.vercel.app/ )](#)
-- **LinkedIn**: [(https://www.linkedin.com/in/hamzaattig/)](#)
-- **Email**: hamza.attig@proton.me
+- **Portfolio**: [[https://portfolio-attighs-projects.vercel.app/ 
+](https://portfolio-attighs-projects.vercel.app/ 
+)](#)
+- **LinkedIn**: [[https://www.linkedin.com/in/hamzaattig/](https://www.linkedin.com/in/hamzaattig/)](#)
+- **Email**: [hamza.attig@proton.me](mailto:your.email@example.com)
 
 Thanks for visiting my profile! Looking forward to connecting and collaborating with like-minded developers. 😊
